@@ -1,13 +1,16 @@
 name: Github Pages
+
 on:
   push:
     branches:
-      - mster  # Here source code branch is `master`, it could be other branch
+      - master  # Here source code branch is `master`, it could be other branch
+
 jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       # Use GitHub Actions' cache to cache dependencies on servers
       - uses: actions/cache@v4
         with:
@@ -15,6 +18,7 @@ jobs:
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-gems-
+
       # Use GitHub Deploy Action to build and deploy to Github
       - uses: jeffreytse/jekyll-deploy-action@v0.6.0
         with:
@@ -29,4 +33,4 @@ jobs:
           bundler_ver: ''            # Default is compatible bundler version (~>2.5.0)
           cname: ''                  # Default is to not use a cname
           actor: ''                  # Default is the GITHUB_ACTOR
-          pre_build_commands: ''     # Installing additional dependencies (Arch Linux)
+          pre_build_commands: ''     # Installing additional dependencies (Arch
