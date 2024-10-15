@@ -24,9 +24,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
+title: Keith Poletti
+email: kepo6935@utexas.edu
+author: Keith
+  image: /assets/images/photo_of_me.jpg
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -140,7 +141,7 @@ yat:
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
 #
-# night_mode: "auto"
+night_mode: "on"
 
 # Code badge setting
 # You can enable or disable the code badge and so on
@@ -161,10 +162,10 @@ yat:
 
 # Page default value
 # defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+home:
+  heading: "Keith Poletti"
+  subheading: "PhD Student @ UT Austin's Oden Institute for Computational Engineering and Sciences"
+  # banner: "Your image url"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
