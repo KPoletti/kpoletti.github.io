@@ -64,8 +64,8 @@ yat:
 # content_width: "920px"
 
 # Google analytics - GA4
-# google_analytics: [Measurement ID]
-# enableDNT: "false"
+google_analytics: [Measurement ID]
+enableDNT: "false"
 
 # If you want to generate website sitemap, you can set true
 # sitemap: false
@@ -102,7 +102,7 @@ yat:
 
 # You can choose a theme color
 # Default theme colors as below:
-# coolblack: #090a0b
+coolblack: #090a0b
 # spacegrey: #353535
 # snowwhite: #ffffff
 #
@@ -117,7 +117,7 @@ theme_color: coolblack
 # greatgold: #f2cb05
 # greenblue: #389092
 #
-brand_color: greenblue
+# brand_color: greenblue
 #
 # Custom color as below:
 # brand_color: "#1a8e42"
@@ -138,7 +138,7 @@ brand_color: greenblue
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
 #
-# night_mode: "on"
+night_mode: on
 
 # Code badge setting
 # You can enable or disable the code badge and so on
@@ -152,11 +152,11 @@ brand_color: greenblue
 # this and add the path to the pages in order as they should show up
 header_pages:
   - index.md
+  - about.md
   - research.md
   - archives.html
   - categories.html
   - tags.html
-  - about.html
 
 # Page default value
 # defaults:
