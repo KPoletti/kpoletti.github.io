@@ -5,7 +5,7 @@ title: Daily Albums
 
 ## Marathon Training
 
-:running: I am training for a marathon in 2024. Here is my training log:
+:runner: I am training for a marathon in 2024. Here is my training log:
 
 ### October 2024
 
