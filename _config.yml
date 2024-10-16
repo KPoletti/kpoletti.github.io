@@ -158,7 +158,7 @@ header_pages:
   - index.md
   - about.md
   - research.md
-  - archives.html
+  # - archives.html
   # - categories.html
   # - tags.html
 
