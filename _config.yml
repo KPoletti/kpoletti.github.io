@@ -41,10 +41,10 @@ author: Keith Poletti
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
-
+copyright: "Copyright (cleft) 2017-{currentYear} {author}"
+tagline: "Keith Poletti, PhD Student @ UT Austin's Oden Institute for Computational Engineering and Sciences"
 description: >- # this means to ignore newlines until "baseurl:"
-  Keith Poletti's personal website. I am a PhD student at the Oden Institute.
+  Keith Poletti I am a PhD student at the Oden Institute.
   I am interested in computational engineering and sciences, and I am currently 
   working on the development of a new neural operators.
 baseurl: "" # the subpath of your site, e.g. /blog

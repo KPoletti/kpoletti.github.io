@@ -5,7 +5,7 @@
 layout: home
 title: Home
 banner: "/assets/images/banners/circle_photo.jpg"
-theme: 
+description: "Keith Poletti's personal website "
 ---
 
 
