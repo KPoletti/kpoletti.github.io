@@ -4,7 +4,24 @@ title: About
 ---
 
 <!-- al -->
-![Sweaters!](assets/images/photo_of_me.jpg){:height="500px" max-width="100%", align="left"}
+<!-- Random image from Zach Stoebner-->
+<div id="random-image"></div>
+
+<script>
+
+// **when adding new images, run rename_images.py and paste output here**
+var images = ['1.jpg', '2.jpg', '3.jpg', '4.jpg'];  
+
+// Function to select and display a random image
+function displayRandomImage() {
+    var randomImage = images[Math.floor(Math.random() * images.length)];
+    var imgElement = `<img src="/profiles/${randomImage}" alt="random image of Zach Stoebner" style="height:500px;max-width:100%;" >`;
+    document.getElementById("random-image").innerHTML = imgElement;
+}
+
+// Call the function to display the random image
+displayRandomImage();
+</script>
 
 ## About Me
 
