@@ -44,7 +44,9 @@ author: Keith Poletti
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Keith Poletti's personal website. 
+  Keith Poletti's personal website. I am a PhD student at the Oden Institute.
+  I am interested in computational engineering and sciences, and I am currently 
+  working on the development of a new neural operators.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "kpoletti.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "" # the favicon for your site
@@ -138,7 +140,9 @@ theme_color: coolblack
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
 #
-night_mode: on
+night_mode: "on"
+# set up dark mode by default
+
 
 # Code badge setting
 # You can enable or disable the code badge and so on
@@ -155,8 +159,8 @@ header_pages:
   - about.md
   - research.md
   - archives.html
-  - categories.html
-  - tags.html
+  # - categories.html
+  # - tags.html
 
 # Page default value
 # defaults:

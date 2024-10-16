@@ -3,8 +3,8 @@ layout: about
 title: About
 ---
 
-
-![Sweaters!](assets/images/photo_of_me.jpg){:height="500px" max-width="100%"}
+<!-- al -->
+![Sweaters!](assets/images/photo_of_me.jpg){:height="500px" max-width="100%", align="left"}
 
 ## About Me
 
