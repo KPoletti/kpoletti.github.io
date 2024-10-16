@@ -32,7 +32,7 @@ by [Dr. Stella S. R. Offner](https://sites.google.com/view/stellaoffner/home) an
 My research interests include Scientific Machine Learning, Uncertainty Quantification, and Bayesian Inference.
 At the moment, I am working on developing neural operators for solving partial differential equations and inverse problems in astrophysics.
 
-#### My Links
+My Links
 - [GitHub](https://github.com/KPoletti/)
 - [LinkedIn](https://www.linkedin.com/in/keith-poletti/)
 
@@ -40,6 +40,6 @@ At the moment, I am working on developing neural operators for solving partial d
 In my free time, I enjoy climbing, running, and film photography. When I am not doing one of those things, I am probably listening to an album or watching a movie.
 
 #### Side Quests
-- Album per Day
+- [Album per Day](/sideQuests/album)
 - Marathon Training
 - Film Photography
