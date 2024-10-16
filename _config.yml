@@ -26,7 +26,7 @@
 
 title: Keith Poletti
 email: kepo6935@utexas.edu
-author: Keith
+author: Keith Poletti
   # image: /assets/images/photo_of_me.jpg
 
 # Copyright setting
@@ -44,10 +44,7 @@ author: Keith
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  Keith Poletti's personal website. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "kpoletti.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "" # the favicon for your site
@@ -109,7 +106,7 @@ yat:
 # spacegrey: #353535
 # snowwhite: #ffffff
 #
-# theme_color: snowwhite
+theme_color: coolblack
 #
 # Custom color as below:
 # theme_color: "#882250"
@@ -120,7 +117,7 @@ yat:
 # greatgold: #f2cb05
 # greenblue: #389092
 #
-# brand_color: orangered
+brand_color: greenblue
 #
 # Custom color as below:
 # brand_color: "#1a8e42"
@@ -153,12 +150,13 @@ yat:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-# header_pages:
-#   - index.html
-#   - archives.html
-#   - categories.html
-#   - tags.html
-#   - about.md
+header_pages:
+  - index.md
+  - research.md
+  - archives.html
+  - categories.html
+  - tags.html
+  - about.html
 
 # Page default value
 # defaults:
