@@ -3,7 +3,7 @@ layout: about
 title: Marathon Training
 ---
 
-## :person_running:: Marathon Training
+## Marathon Training
 
 I am training for a marathon in 2024. Here is my training log:
 
