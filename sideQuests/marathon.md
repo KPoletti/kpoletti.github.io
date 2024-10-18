@@ -1,11 +1,11 @@
 ---
 layout: about
-title: Daily Albums
+title: Marathon Training
 ---
 
-## Marathon Training
+## :runner:: Marathon Training
 
-:runner: I am training for a marathon in 2024. Here is my training log:
+I am training for a marathon in 2024. Here is my training log:
 
 ### October 2024
 

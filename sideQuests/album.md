@@ -3,7 +3,7 @@ layout: about
 title: Daily Albums
 ---
 
-## Daily Albums for 2024 :musical_note:
+## :musical_note:: Daily Albums for 2024 
 I am listening to an album every day in 2024. Here are the some of my favorite albums I have listened to so far:
 ### October 2024
 

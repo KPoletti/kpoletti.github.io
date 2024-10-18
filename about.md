@@ -25,7 +25,7 @@ displayRandomImage();
 
 ## About Me
 
-:wave: Hi, I'm Keith Poletti, a data scientist, ML researcher, and grad student.
+:wave:: Hi, I'm Keith Poletti, a data scientist, ML researcher, and grad student.
 I'm currently pursuing a PhD in Computational Science, Engineering, and Mathematics at UT Austin and I am advised
 by [Dr. Stella S. R. Offner](https://sites.google.com/view/stellaoffner/home) and [Dr. Rachel A. Ward](https://sites.google.com/prod/view/rward/home).
 
