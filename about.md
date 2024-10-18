@@ -30,7 +30,9 @@ I'm currently pursuing a PhD in Computational Science, Engineering, and Mathemat
 by [Dr. Stella S. R. Offner](https://sites.google.com/view/stellaoffner/home) and [Dr. Rachel A. Ward](https://sites.google.com/prod/view/rward/home).
 
 My research interests include Scientific Machine Learning, Uncertainty Quantification, and Bayesian Inference.
-At the moment, I am working on developing neural operators for solving partial differential equations and inverse problems in astrophysics.
+At the moment, I am working on developing neural operators to aid in solving partial differential equations and inverse problems in astrophysics.
+
+For my undergrad, I majored in Astrophysics and Aerospace Engineering from the University of Colorado Boulder. I researched [image tracking software](https://github.com/KPoletti/GaN-NanoWire-Image-Tracking-) for GaN nanowires with [Dr. Charles Rogers](https://spot.colorado.edu/~rogersct/index.html) and [Dr. Daniel Dessau](https://dessau.appspot.com/). Later as part of Dr. Robert Marshall's [LAIR Lab](https://culair.weebly.com/), I designed, tested, and manufactuered very low frequency analog circuit board for the [CANVAS CubeSat](https://culair.weebly.com/canvas.html).
 
 My Links
 - [GitHub](https://github.com/KPoletti/)
