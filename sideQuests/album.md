@@ -5,6 +5,18 @@ title: Daily Albums
 
 ## :musical_note:: Daily Albums for 2024 
 I am listening to an album every day in 2024. Here are the some of my favorite albums I have listened to so far:
+
+### November 2024
+
+Magnolia Electric Co. by Songs Ohia: Jason Molina's poetic and cryptic lyrics reconcile the faults we make even when we try our best. This album is an instant all time favorite for me.
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/41RHNc47RzqBt9FBmhb8YY?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Klaus Nomi by Klaus Nomi: Klaus truly fights to be unqiuly himself. Blending concepts opera, psychedlic rock, and just plain old quirkiness.
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/45nPQ2MnfspUquqmNSfVhd?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Viva Last Blues by Palace Music: Raspy, raw, and folksy. Perfect for those tough moments.
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4janwzxTDaebBxPK4mRcWF?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ### October 2024
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5xfhDwP4VI3eINmHYm72CG?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
