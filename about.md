@@ -43,4 +43,4 @@ I enjoy climbing, running, and film photography in my free time. When not doing 
 #### Side Quests
 - [Album per Day](/sideQuests/album)
 - [Marathon Training](/sideQuests/marathon)
-- Film Photography
+- [Film Photography](/sideQuests/film)
