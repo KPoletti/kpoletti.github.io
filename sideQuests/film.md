@@ -56,6 +56,7 @@ lightbox.init();
   <img src="/sideQuests/photos/3-000018140010.jpg" alt="home-slice">
   <img src="/sideQuests/photos/5-000018140002.jpg" alt="skull">
   <img src="/sideQuests/photos/11-000020420028.jpg" alt="beetle">
+  <img src="/sideQuests/photos/000097190032.jpg" alt="blue-truck">
   <img src="/sideQuests/photos/10-000020420036.jpg" alt="truck">
   <img src="/sideQuests/photos/12-000097190023.jpg" alt="bmw">
 </div>
