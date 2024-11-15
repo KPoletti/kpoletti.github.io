@@ -42,5 +42,5 @@ My Links
 I enjoy climbing, running, and film photography in my free time. When not doing one of those things, I am probably listening to an album or watching a movie.
 #### Side Quests
 - [Album per Day](/sideQuests/album)
-- [Marathon Training](/sideQuests/marathon)
+- [Marathon Training](https://blue-tarsier-068.notion.site/Best-Little-Marathon-Plan-in-Texas-bd873a0100cc4dbc8e8aab4ef1a37f60)
 - [Film Photography](/sideQuests/film)

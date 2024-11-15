@@ -10,7 +10,7 @@ title: Film Photography
 }
 
 .my-gallery img {
-  height: 300px; /* Fixed height */
+  height: 200px; /* Fixed height */
   width: auto; /* Variable width */
   object-fit: cover; /* Ensures the image covers the area */
 }
@@ -21,6 +21,7 @@ title: Film Photography
   }
 }
 </style>
+
 # Gallery of Photos taken with my Canon AE-1
 
 ## Gallery of Architecture 
@@ -39,7 +40,7 @@ Various photos of buildings and structures with good lighting or cool architectu
 </div>
 
 
-## Gallery of Car 
+## Gallery of Cars 
 Car photos of classic looking cars.
 <div class="my-gallery">
   <img src="/sideQuests/photos/11-000020420028.jpg" alt="beetle">
