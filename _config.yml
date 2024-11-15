@@ -48,7 +48,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I am interested in computational engineering and sciences, and I am currently 
   working on the development of a new neural operators.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "kpoletti.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://kpoletti.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "" # the favicon for your site
 
 # Yat date format
@@ -164,10 +164,10 @@ header_pages:
 
 # Page default value
 # defaults:
-# home:
-#   heading: "Keith Poletti"
-#   subheading: "PhD Student @ UT Austin's Oden Institute for Computational Engineering and Sciences"
-#   banner: "Your image url"
+home:
+  heading: "Keith Poletti"
+  subheading: "PhD Student @ UT Austin's Oden Institute for Computational Engineering and Sciences"
+  banner: "Your image url"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
