@@ -28,9 +28,8 @@ title: Film Photography
 }
 </style>
 
-## Gallery of Photos taken with my Canon AE-1
-<iframe id='iframe' src='https://lightroom.adobe.com/embed/shares/cc87254020b54497b332358e8b35e051/slideshow?background_color=%232D2D2D&color=%23999999' frameborder='0'style='  position: relative; padding-bottom: 50%; height: 0; overflow: hidden; top:0; left:0;' ></iframe>
-
+# Gallery of Photos taken with my Canon AE-1
+[Favorites from my film photography](https://adobe.ly/4kGyIMS)
 
 ## Gallery of Architecture 
 Various photos of buildings and structures with good lighting or cool architecture.
