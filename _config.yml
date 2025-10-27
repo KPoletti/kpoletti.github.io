@@ -42,7 +42,7 @@ author: Keith Poletti
 #   "Copyright © 2017-2021 Foobar"
 #
 copyright: "Copyright (cleft) 2017-{currentYear} {author}"
-tagline: "Keith Poletti, PhD Student @ UT Austin's Oden Institute for Computational Engineering and Sciences"
+tagline: "Keith Poletti, Engineer interested in using Machine Learning in Science."
 description: >- # this means to ignore newlines until "baseurl:"
   Keith Poletti I am a PhD student at the Oden Institute.
   I am interested in computational engineering and sciences, and I am currently 
