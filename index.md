@@ -12,5 +12,5 @@ description: "Keith Poletti's personal website "
 ## :wave: Hi, I'm Keith Poletti 
 Hopefully, you find something interesting here.
 
-I am a data scientist, ML researcher, and grad student. I'm pursuing a PhD in Computational Science, Engineering, and Mathematics at UT Austin,
-and my advisors are [Dr. Stella S. R. Offner](https://sites.google.com/view/stellaoffner/home) and [Dr. Rachel A. Ward](https://sites.google.com/prod/view/rward/home).
+I am a data scientist, ML researcher, and engineer. I completed my Master's in Computational Science, Engineering, and Mathematics at UT Austin,
+and my advisors were [Dr. Stella S. R. Offner](https://sites.google.com/view/stellaoffner/home) and [Dr. Rachel A. Ward](https://sites.google.com/prod/view/rward/home).
