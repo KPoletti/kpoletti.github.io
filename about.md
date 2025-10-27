@@ -25,11 +25,11 @@ displayRandomImage();
 
 ## About Me
 
-:wave:: Hi, I'm Keith Poletti, a data scientist, ML researcher, and grad student.
-I'm pursuing a PhD in Computational Science, Engineering, and Mathematics at UT Austin,
-and my advisors are [Dr. Stella S. R. Offner](https://sites.google.com/view/stellaoffner/home) and [Dr. Rachel A. Ward](https://sites.google.com/prod/view/rward/home).
+:wave:: Hi, I'm Keith Poletti, a data scientist, ML researcher, and engineer.
+I completed my Master's in Computational Science, Engineering, and Mathematics at UT Austin,
+and my advisors were [Dr. Stella S. R. Offner](https://sites.google.com/view/stellaoffner/home) and [Dr. Rachel A. Ward](https://sites.google.com/prod/view/rward/home).
 My research interests include Scientific Machine Learning, Uncertainty Quantification, and Bayesian Inference.
-At the moment, I am working on developing neural operators to aid in solving partial differential equations and inverse problems in astrophysics.
+I worked on developing neural operators to aid in solving partial differential equations and inverse problems in star formation.
 
 For my undergrad, I majored in Astrophysics and Aerospace Engineering from the University of Colorado Boulder. I researched [image tracking software](https://github.com/KPoletti/GaN-NanoWire-Image-Tracking-) for GaN nanowires with [Dr. Charles Rogers](https://spot.colorado.edu/~rogersct/index.html) and [Dr. Daniel Dessau](https://dessau.appspot.com/). Later as part of Dr. Robert Marshall's [LAIR Lab](https://culair.weebly.com/), I designed, tested, and manufactuered very low frequency analog circuit board for the [CANVAS CubeSat](https://culair.weebly.com/canvas.html).
 
