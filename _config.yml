@@ -166,7 +166,7 @@ header_pages:
 # defaults:
 home:
   heading: "Keith Poletti"
-  subheading: "PhD Student @ UT Austin's Oden Institute for Computational Engineering and Sciences"
+  subheading: "Data Scientist and engineer with Master's from UT Austin's Oden Institute for Computational Engineering and Sciences"
   banner: "Your image url"
 
 # Banner default settings
